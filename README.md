@@ -1,3 +1,3 @@
 # Hi, i'm Fernando 👋
 
-I'm highly interested in data field, especially in Data Science, focused on creating business solutions using machine learning tools.
+I'm very interested in the data area, especially in Data Science, with a focus on building business solutions using machine learning tools.
