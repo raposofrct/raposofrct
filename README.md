@@ -1,3 +1,4 @@
-Hello Word!
+# Hi, i'm Fernando 👋
 
-I'm a Economics student highly interested in data, especially in Data Science, focused on creating business solutions using machine learning models.
+## About me 
+I'm a Economics student highly interested in data, especially in Data Science, focused on creating business solutions using machine learning tools.
